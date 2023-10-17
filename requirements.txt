@@ -1,0 +1,9 @@
+gmaps
+pandas
+numpy
+matplotlib
+geographiclib
+python-dotenv
+hubspot-api-client>=8.0.0
+googlemaps
+jupyter_nbextensions_configurator
